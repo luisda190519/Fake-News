@@ -21,6 +21,7 @@ analysis of the collected information:
 - Cloud of most used words.
 
 - Distribution of the 10 most frequent bigraphs and trigrams.
+
 Generate 30 random headlines, based on the information collected, and observe if the results hold when the analysis is performed again.
 the results hold when performing the above analysis again. The results and conclusions
 obtained should be included in the report.
